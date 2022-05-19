@@ -29,6 +29,30 @@ body {
 #main-doc {
     margin-left: 300px;
     width: 100%;
+    padding: 20px;
     
+}
+
+.main-section header {
+    font-size: 2rem;
+    padding: 10px 0;
+}
+
+.main-section p {
+    padding: 15px 0;
+}
+
+.main-section pre {
+    background-color: rgb(214, 214, 214);
+    padding: 0 10px;
+    margin: 10px 0;
+}
+
+.main-section code {
+    font-family: monospace;
+}
+
+.main-section ul {
+    list-style: inside;
 }
 
